@@ -1,0 +1,21 @@
+{
+    "policies": {
+        "GenAiDefaultSettings": 2,
+        "TranslateEnabled": false,
+        "BrowserSignin": 0,
+        "SyncDisabled": true,
+        "DefaultBrowserSettingEnabled": false,
+        "PasswordManagerEnabled": false,
+        "AutofillAddressEnabled": false,
+        "AutofillCreditCardEnabled": false,
+        "HttpsOnlyMode": "force_enabled",
+        "DefaultGeolocationSetting": 2,
+        "DefaultNotificationsSetting": 2,
+        "NewTabPageLocation": "about:blank",
+        "HomepageLocation": "about:blank",
+        "HomepageIsNewTabPage": false,
+        "SearchSuggestEnabled": false,
+        "MetricsReportingEnabled": false,
+        "UrlKeyedAnonymizedDataCollectionEnabled": false
+    }
+}
